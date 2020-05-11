@@ -5,7 +5,8 @@ publishDate: 2020-05-11T01:58:17.230184Z
 authors: ["Bradley P Allen"]
 publication_types: ["1"]
 abstract: ""
+draft: true
 featured: false
-publication: "*W3C Workshop on Linked Data Enterprise Data Patterns (Dec. 2011). http://www. slideshare. net/bpa777/ledp2011-v3*"
+publication: "*W3C Workshop on Linked Data Enterprise Data Patterns (Dec. 2011)."
+url_pdf: http://www. slideshare. net/bpa777/ledp2011-v3*
 ---
-

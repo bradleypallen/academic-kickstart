@@ -13,6 +13,7 @@ the representation of constraints within ISIS, and the manner in which these con
 conducting a constraint-directed search for an acceptable schedule. The important issues relating to the
 relaxation of constraints are addressed. Finally, the interactive scheduling facilities provided by ISIS are
 considered."
+draft: true
 featured: false
 publication: "Carnegie Mellon University Robotics Institute Technical Report CMU-RI-TR-83-8"
 ---

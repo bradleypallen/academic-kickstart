@@ -5,7 +5,7 @@ publishDate: 2020-05-11T01:58:17.223438Z
 authors: ["Bradley P Allen", "Valery A Petrushin"]
 publication_types: ["1"]
 abstract: ""
+draft: true
 featured: false
 publication: "*Proceedings of the TRECVID Workshops*"
 ---
-

@@ -17,6 +17,6 @@ from the literature as well as predict specific
 new relation instances in the ontology."
 draft: false
 featured: true
-publication: "*5th Workshop on Automated Knowledge Base Construction (AKBC) 2016*"
+publication: "*5th Workshop on Automated Knowledge Base Construction (AKBC 2016)*"
 url_pdf: http://www.akbc.ws/2016/papers/3_Paper.pdf
 ---

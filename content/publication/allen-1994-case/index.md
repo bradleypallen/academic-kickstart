@@ -1,5 +1,5 @@
 ---
-title: "Case-based reasoning: Business applications"
+title: "Case-Based Reasoning: Business Applications"
 date: 1994-03-01
 publishDate: 2020-05-11T01:58:17.216189Z
 authors: ["Bradley P. Allen"]

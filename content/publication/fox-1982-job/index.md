@@ -1,5 +1,5 @@
 ---
-title: "Job-Shop Scheduling: An Investigation in Constraint-Directed Reasoning."
+title: "Job-Shop Scheduling: An Investigation in Constraint-Directed Reasoning"
 date: 1982-08-01
 publishDate: 2020-05-11T01:58:17.228254Z
 authors: ["Mark S Fox", "Bradley P Allen", "Gary Strohm"]

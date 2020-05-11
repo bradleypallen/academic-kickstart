@@ -15,6 +15,7 @@ a straightforward matrix factorization algorithm one can achieve 0.7 F1 measure 
 prediction task in this environment. Link prediction results can be used to suggest new relation types and relation type synonyms coming
 from the literature as well as predict specific
 new relation instances in the ontology."
+draft: false
 featured: true
 publication: "*5th Workshop on Automated Knowledge Base Construction (AKBC) 2016*"
 url_pdf: http://www.akbc.ws/2016/papers/3_Paper.pdf

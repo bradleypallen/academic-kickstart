@@ -11,7 +11,7 @@ address:
   region: California
   postcode:
   country: US
-summary: In this Los Angeles Machine Learning Meetup event, Brad discussed the work ongoing at Elsevier towards using machine learning to understand scientific and medical articles.
+summary: In this Los Angeles Machine Learning Meetup event in February 2019, Brad discussed the work ongoing at Elsevier towards using machine learning to understand scientific and medical articles.
 abstract: Elsevier is the world's largest scientific and medical content publisher, with seven thousand employees globally and roughly three billion dollars in annual revenue. The scholarly communication ecosystem that Elsevier is part of has been radically transformed by the Internet and Web, and crazy though it may seem, this process is only just beginning. This talk will discuss the ways in which Elsevier is exploiting machine learning technology to effect this transition, by processing the scientific and medical literature together with the data exhaust associated with scientific research and authorship to create new data solutions for researchers and medical practitioners. We will touch on the impact of machine learning on scholarly communications, current work on assembling the talent and infrastructure to productionize machine learning applications, and specific applications within Elsevier's businesses. We will additionally place our efforts in the context of the latest upswing of interest in corporate artificial intelligence, and provide a personal perspective on what works, what doesn't, and what remains to be done in that area.
 
 # Talk start and end times.
@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: "la-ml-meetup-2019-02-19-slides.pdf"
 
 url_code:
 url_pdf:

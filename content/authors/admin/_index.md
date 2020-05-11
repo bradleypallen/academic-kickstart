@@ -23,7 +23,7 @@ bio: Survivor of two AI winters and counting. Opinions my own.
 interests:
 - Artificial Intelligence
 - Machine Learning
-- Information Retrieval
+- Linked Open Data
 
 education:
   courses:

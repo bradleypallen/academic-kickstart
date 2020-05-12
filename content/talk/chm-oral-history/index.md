@@ -11,7 +11,7 @@ address:
   region: California
   postcode:
   country: US
-summary: An oral history interview of Brad conducted by Avron Barr at the Computer History Museum in May 2018, as part of a workshop at the CHM on the history of expert systems.
+summary: An oral history interview of Brad conducted by Avron Barr at the Computer History Museum in May 2018, as part of a workshop at the CHM on the history of expert systems companies.
 abstract: In this May 2018 interview by Avron Barr, Brad Allen discusses his entrepreneurial career that has spanned nearly 40 years in the AI and expert system industry. After earning a bachelor’s degree from Carnegie Mellon University, Allen continued to work on applied and industrial expert systems in the Robotics Institute and Intelligent Systems Lab at CMU. In 1984, he moved to the West Coast to join the company Inference, where he helped to develop the Automated Reasoning Tool (ART). He spent the remainder of his career in the Los Angeles area and later went on to spin-off and/or cofound several expert systems and AI companies, including Limbex, TriVida, and Siderean Software. Allen describes himself as a serial entrepreneur and discusses several turning points in the commercial AI and knowledge engineering field. The discussion concludes with an overview of his current work with Elsevier Labs and a look at the how the early work in AI is being realized in 21st century systems and applications.
 
 # Talk start and end times.

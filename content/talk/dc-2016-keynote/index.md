@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country: DK
-summary: At the DC-2016 conference in Copenhagen, Brad gave a keynote sharing his thoughts on how metadata standards may need to evolve in a future where machines, and not just people, are readers.
+summary: At the DC-2016 conference in Copenhagen, Brad gave a keynote sharing his thoughts on why metadata standards may need to evolve in a future where machines, and not just people, are readers.
 abstract: "Much of Elsevier's work in the digitization of scholarly content has involved the adoption of metadata standards, of which Dublin Core and its related vocabularies have been central. These standards have been rooted in the ways in which people have accessed and discovered knowledge in libraries, but are increasingly focused on representing knowledge directly for uses that go beyond discovery and access. This talk addresses the question of how these standards are continuing to evolve as we move to a world where more and more of the readership of the scientific literature is composed of machines, as opposed to just people."
 
 # Talk start and end times.

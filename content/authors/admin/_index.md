@@ -24,6 +24,7 @@ interests:
 - Artificial Intelligence
 - Machine Learning
 - Linked Open Data
+- Descriptive Bibliography
 
 education:
   courses:

@@ -5,8 +5,7 @@ publishDate: 2020-05-11T01:58:17.219264Z
 authors: ["Bradley P Allen", "S Daniel Lee"]
 publication_types: ["8"]
 abstract: "A case-based reasoning system which is smoothly integrated into a rule-based reasoning system, thus coordinating case
-based reasoning techniques and rule-based reasoning tech
-niques in a unified automated reasoning system, in which an
+based reasoning techniques and rule-based reasoning techniques in a unified automated reasoning system, in which an
 automated processor may proceed by inferential reasoning
 on the facts of the problem and the cases by means of
 rule-based reasoning techniques or based on procedural directives supplied by a human programmer, and may select

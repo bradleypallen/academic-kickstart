@@ -65,4 +65,4 @@ user_groups:
 # - Visitors
 ---
 
-Brad Allen is an artificial intelligence expert and serial entrepreneur with over thirty years of experience bringing innovative software solutions to market. Currently, Brad is Chief Architect at Elsevier, a global information analytics business specializing in science and health. Prior to Elsevier, Brad was founder and CTO at three enterprise software startups in the Los Angeles area, achieving successful exits in two of the three. He began his career during the nineteen-eighties as one of the very first knowledge engineers of the expert systems era.
+Brad Allen is a technology executive, serial entrepreneur, and artificial intelligence expert with over thirty-five years of experience bringing innovative software solutions to market. Currently, Brad is Chief Architect at Elsevier, a global information analytics business specializing in science and health. Prior to Elsevier, Brad was founder and CTO at three enterprise software startups in the Los Angeles area, achieving successful exits in two of the three. He began his career during the nineteen-eighties as one of the very first knowledge engineers of the expert systems era.
